@@ -6,7 +6,45 @@ html {
 body {
     background: linear-gradient(180deg, #8fc1e3 0%, #5085a5 51%, #31708e 75%);
 }
-/* working on changing font color */
-main section article h1 {
-    font: white;
+
+#aboutMeImageBox {
+    width: 35%;
 }
+
+/* @media screen and (max-width: 1199px) {
+   
+
+    #aboutMeImageBox{
+        width: 100%;
+        height: 100%;
+    }
+  } */
+
+@media screen and (max-width: 991px) {
+   
+
+    #aboutMeImageBox{
+        width: 100%;
+        height: 100%;
+    }
+  }
+
+@media screen and (max-width: 768px) {
+   
+    /* contact me page */
+    body main section form, .col-sm-2 {
+      padding: 0;
+      border: 0;
+      margin: 0;
+      width: 100%;
+      float: none;
+
+    }
+
+    #aboutMeImageBox{
+        width: 100%;
+        height: 100%;
+    }
+  }
+  
+  
