@@ -8,6 +8,7 @@ body {
     background: linear-gradient(180deg, #8fc1e3 0%, #5085a5 51%, #31708e 75%);
 }
 
+
 /* keeps profile pic on about me the same width as the text box as screen shrinks */
 @media screen and (max-width: 991px) {
    
