@@ -1,11 +1,11 @@
 # my-portfolio
-this is my portfolio - it is a continuing project to display and promote my web developer skills as I learn and grow.
+This is my portfolio - It is a continuing project to display and promote my web developer skills as I learn and grow.
 
-my portfolio, thus far, is created primarily using boot strap so that it will be mobile responsive. I added a custom CSS file to take care of some small style and layout issues.
+My portfolio, thus far, is created primarily using bootstrap so that it will be mobile responsive. I added a custom CSS file to take care of some small style and layout issues.
 
-I have also become a stickler for using semantic HTML and Semantic hooks wherever possible (bootstrap not included) 
+I have also become a stickler for using semantic HTML and Semantic hooks wherever possible (bootstrap not included). 
 
-as of 9/9/2020 it consists of 3 simple pages with an about me section, a contact me page, and a portfolio gallery. 
+As of 9/9/2020 it consists of 3 simple pages with an about me section, a contact me page, and a portfolio gallery. 
 
 1) index.html is the About me page: 
 ![About Me Page](/Assets/Images/index.html-about-me.PNG) 
