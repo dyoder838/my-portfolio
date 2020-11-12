@@ -7,11 +7,10 @@ My portfolio, thus far, is created primarily using bootstrap so that it will be 
 
 I have also become a stickler for using semantic HTML and Semantic hooks wherever possible (bootstrap not included). 
 
-As of 9/9/2020 it consists of 3 simple pages with an about me section, a contact me page, and a portfolio gallery. 
+As of 9/9/2020 it consists of 3 simple pages with an about me section, a contact me page, and a portfolio gallery with links to projects I have completed. 
 
 ## **Links**
 
-[Deployed on Heroku](#)
 [Deployed on GitHub](https://dyoder838.github.io/my-portfolio/)
 
 1) index.html is the About me page: 
@@ -23,3 +22,8 @@ As of 9/9/2020 it consists of 3 simple pages with an about me section, a contact
 3) Contact.html is my contact page with a simple form to leave a message 
 ![About Me Page](/Assets/Images/contact.html-contact-page.PNG)
 
+## **Contact Me**
+
+Dyoder838@gmail.com
+206.941.9948
+[LinkedIn](www.linkedin.com/in/daniel-j-yoder)
